@@ -1,0 +1,6 @@
+{
+"board_name": "Wio Link v1.0",
+"connections": [
+    {"sku": "63e25800-a2d2-11e5-bf7f-feff819cdc9f", "port": "D0"}
+]
+}

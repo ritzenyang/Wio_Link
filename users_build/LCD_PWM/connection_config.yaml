@@ -1,0 +1,3 @@
+GenericPWMOutD0:
+  construct_arg_list: {pin: 14, type: GPIO}
+  sku: 63e25800-a2d2-11e5-bf7f-feff819cdc9f
